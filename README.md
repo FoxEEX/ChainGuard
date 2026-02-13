@@ -40,3 +40,14 @@ ChainGuard AI applies deterministic rule-based scoring to generate transparent r
 - Live blockchain API integration
 - Custom analyst-defined rules
 - Automated compliance reporting
+
+-## Screenshots
+
+![Dashboard](Dashboard.png)
+
+![Analysis](Analysis.png)
+
+![Analysis_2](Analysis_2.png)
+
+
+ 
